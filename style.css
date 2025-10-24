@@ -1,3 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
 body {
-    background: rgb(210, 210, 163);
+    
+    background: radial-gradient(905px at 4.9% 85.8%, rgb(255, 243, 242) 0.1%, rgb(255, 247, 220) 57.6%);
+    color: rgb(103, 92, 71);
+    font-family: Macondo;
 }
+
+h1 {
+    color: rgb(82, 61, 7);
+    text-align: center;
+    font-size:45px;
+}
+
+h2 {
+    color: rgb(183, 143, 90);
+    font-size: 28px;
+}
+
+h3 {
+    font-weight: 50px;
+    font-size: 20px
+}
+
+.recipe-section {
+    border: 10px outset beige;
+    padding: 20px;
+    margin: 5px 0;
+}
+
+a {
+    color: brown;
+    text-decoration: white;
+    font-weight: bold;
+    background: white;
+    padding: px 1px;
+    border: 1px solid black;
+  
+}
+
+img {
+    border: 10px solid rgb(82, 61, 7) ;
+    border-radius: 15px;
+}
+
+#title {
+    line-height:1.5; 
+}
+
+.recipe-section {
+    line-height: 2;
+}
+
+
+
