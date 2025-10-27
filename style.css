@@ -44,12 +44,16 @@ img {
 }
 
 #title {
-    line-height:1.5; 
+    line-height:1.5;  
 }
 
 .recipe-section {
     line-height: 2;
 }
 
+#logo {
+    text-align: center; 
+    margin: auto;
+}
 
 
